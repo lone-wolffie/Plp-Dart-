@@ -11,8 +11,8 @@ void main() {
 	int totalProductivity = linesOfCodeWritten + bugsFixed;  // Add
 	double codeTime = codingHours * coffeeCups;  // Multiply
 
-	print("💻 Total productivity: $totalProductivity tasks completed");
-	print("⏳ Coding time: $codeTime hours fueled by coffee");
+	print('💻 Total productivity: $totalProductivity tasks completed');
+	print('⏳ Coding time: $codeTime hours fueled by coffee');
 
 	
 }

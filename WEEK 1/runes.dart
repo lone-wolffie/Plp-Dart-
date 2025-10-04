@@ -6,7 +6,7 @@ void main() {
   String castedMagic = String.fromCharCodes(magicRunes);
   
   // 🔮 Output the magic!
-  print("✨ Casting runes: $castedMagic");
+  print('✨ Casting runes: $castedMagic');
 
 
   var letter = 'A';
